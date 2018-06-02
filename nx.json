@@ -1,5 +1,11 @@
 {
   "npmScope": "levelup",
   "projects": {
+    "smartwater": {
+      "tags": []
+    },
+    "smartwater-e2e": {
+      "tags": []
+    }
   }
 }
